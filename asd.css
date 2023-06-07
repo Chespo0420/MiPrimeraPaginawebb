@@ -1,0 +1,48 @@
+body {
+
+    background-color: #000000;
+    background-clip: url(Los\ Simpson\ -\ Intro.mp4);
+    color: #000000;
+    font-size: 30px;
+    margin-left: 0px;
+
+    
+    font-style: italic;
+
+}
+
+h1 {
+
+    background-color: #000000;
+    color: #42b91e;
+    font-size: 40px;
+    margin-left: 10px;
+    font-style: normal
+}
+
+h2 {
+    background-color: #000000;
+    color: #42b91e;
+    font-size: 40px;
+    margin-left: 10px;
+    font-style: normal
+}
+
+p {
+    background-color: #1b1933;
+    color: #9539ca;
+    font-size: 40px;
+    margin-left: 10px;
+    font-style: Arial;
+}
+
+#asd img {
+
+    transform: scale(0.5);
+    border-radius: 50%;
+
+}
+
+#asd img:hover {
+    transform: scale(1.2)
+}
